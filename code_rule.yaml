@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,cnpmjs.org
   - DOMAIN-SUFFIX,getcomposer.org
   - DOMAIN-SUFFIX,packagist.org
+  - DOMAIN-SUFFIX,yarnpkg.com
