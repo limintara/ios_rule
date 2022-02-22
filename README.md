@@ -1,4 +1,4 @@
-### 收集大佬 Quantumult X 懒人配置
+### Collect Quantumult X Lazy config
 
 - **[Orz-3](https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Orz-3.conf)**
 - **[KOP-XIAO](https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf)**
