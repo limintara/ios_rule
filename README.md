@@ -8,3 +8,6 @@
 - **[毒奶博主](https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/full.conf)**
 - **[yqc](https://raw.githubusercontent.com/Tartarus2014/QuantumultX-Script/main/QuanX.conf)**
 - **[北纬37度的大飛](https://raw.githubusercontent.com/w37fhy/QuantumultX/master/QuantumultX_diy.conf)**
+- **[奇心科技](https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qixin.conf)**
+
+#### 感谢各位大佬的规则分享以及辛勤维护！
