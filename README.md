@@ -7,3 +7,4 @@
 - **[墨鱼手记](https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Profile/QuantumultX.conf)**
 - **[毒奶博主](https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/full.conf)**
 - **[yqc](https://raw.githubusercontent.com/Tartarus2014/QuantumultX-Script/main/QuanX.conf)**
+- **[北纬37度的大飛](https://raw.githubusercontent.com/w37fhy/QuantumultX/master/QuantumultX_diy.conf)**
