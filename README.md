@@ -9,5 +9,6 @@
 - **[yqc](https://raw.githubusercontent.com/Tartarus2014/QuantumultX-Script/main/QuanX.conf)**
 - **[北纬37度的大飛](https://raw.githubusercontent.com/w37fhy/QuantumultX/master/QuantumultX_diy.conf)**
 - **[奇心科技](https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qixin.conf)**
+- **[终极精简配置](https://raw.githubusercontent.com/AtlantisGawrGura/Quantumult-X-Files/main/Config/QX_lite.conf)**
 
 #### 感谢各位大佬的规则分享以及辛勤维护！
