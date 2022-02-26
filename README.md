@@ -1,4 +1,4 @@
-### Collect Quantumult X Lazy config
+### 平常收集的懒人配置
 
 - **[Orz-3](https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Orz-3.conf)**
 - **[KOP-XIAO](https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf)**
@@ -11,4 +11,7 @@
 - **[奇心科技](https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qixin.conf)**
 - **[终极精简配置](https://raw.githubusercontent.com/AtlantisGawrGura/Quantumult-X-Files/main/Config/QX_lite.conf)**
 
-#### 感谢各位大佬的规则分享以及辛勤维护！
+##### 感谢各位大佬的规则分享以及辛勤维护！
+
+### 怎么使用
+* [规则使用](https://github.com/mtgq/ios_rule/issues)
